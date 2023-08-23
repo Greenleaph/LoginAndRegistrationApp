@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LoginAndRegistrationDemoApp</string>
+    <string name="title_activity_forgot_password">ForgotPasswordActivity</string>
+</resources>

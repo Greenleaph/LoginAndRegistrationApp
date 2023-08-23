@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1089180174066",
+    "project_id": "loginandregistrationdemo-66b29",
+    "storage_bucket": "loginandregistrationdemo-66b29.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089180174066:android:4556503ed04ffc1bf7726b",
+        "android_client_info": {
+          "package_name": "io.github.loginandregistrationdemoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1089180174066-gab33e8flt43d11oqtn8siiiss08iadb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJoTT6KTn4Gy0dbIbX39GY1tgil4aupu4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1089180174066-gab33e8flt43d11oqtn8siiiss08iadb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
